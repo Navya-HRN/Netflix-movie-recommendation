@@ -1,2 +1,2 @@
 # Netflix-movie-recommendation
-This is a machine learning model that is trained to predict the Netflix movie recommendations.
+This is a machine learning model that recommends movies based on their watch history in Netlix.
